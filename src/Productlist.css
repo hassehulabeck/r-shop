@@ -1,0 +1,6 @@
+.productlist {
+    background-color: azure;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
